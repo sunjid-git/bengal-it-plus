@@ -1,0 +1,19 @@
+.loggedInUserBtn{
+    background-color: rgb(10, 70, 154);
+    color: seashell;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px solid rgb(10, 71, 194);
+}
+.notLoggedInUserBtn{
+    background-color: rgb(10, 154, 22);
+    color: seashell;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 8px;
+    border: 1px solid rgb(9, 127, 32);
+}

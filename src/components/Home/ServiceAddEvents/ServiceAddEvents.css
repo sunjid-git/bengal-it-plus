@@ -1,0 +1,17 @@
+.formShape{
+    border: 1px solid rgb(7, 105, 30);
+    padding: 50px;
+    border-radius: 10px;
+}
+.submitBtn{
+    background-color: rgb(53, 196, 86);
+    color: white;
+    border: none;
+    padding: 5px;
+
+}
+.uploadImg{
+    height: 25px;
+    padding-right: 10px;
+    padding-left: 5px;
+}

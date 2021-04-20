@@ -1,0 +1,12 @@
+.bg{
+    height:300px;
+    border-radius: 3%;
+}
+.explore{
+    padding: 8px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(33, 161, 87);
+}

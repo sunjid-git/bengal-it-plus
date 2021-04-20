@@ -1,0 +1,17 @@
+.serviceImg{
+    height: 175px;
+    width: 225px;
+    border-radius:10px;
+}
+
+.xyz{
+    background-color: rgb(37, 77, 129);
+    color: white;
+    border-radius: 10px;
+}
+
+.xyz:hover{
+    background-color: rgb(53, 106, 175);
+    color: white;
+    border-radius: 10px;
+}

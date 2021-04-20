@@ -1,0 +1,12 @@
+.reviewImg{
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    border: 5px solid rgb(20, 170, 53);
+}
+.reviewStar{
+    color: yellow;
+}
+.reviewImg{
+    margin-right: 20px;
+}

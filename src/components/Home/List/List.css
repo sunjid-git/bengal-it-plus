@@ -1,0 +1,7 @@
+table, th, td {
+    border: 1px solid rgb(8, 123, 41);
+  }
+  
+  table {
+    width: 100%;
+  }

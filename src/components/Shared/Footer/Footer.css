@@ -1,0 +1,11 @@
+
+.footer-area li{
+    padding-bottom: 5px;
+}
+.social-media .icon{
+    height: 50px;
+    width: 50px;
+    padding: 8px;
+    border-radius: 50%;
+    border: 1px solid #1c0a82;
+}

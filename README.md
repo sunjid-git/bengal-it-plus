@@ -1,4 +1,4 @@
-### Bengal IT Plus 
+### Bengal IT Plus - Client Part
 ### [Live](https://bengal-it-plus.web.app/)
 ### [Server](https://github.com/sunjid-git/bengal-it-plus-server)
 ### [API](https://evening-woodland-61193.herokuapp.com/events)

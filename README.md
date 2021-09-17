@@ -8,7 +8,7 @@ It is a online electronic repairing shop.
 
 ### Data loading in both Service and Review Section is Dynamic
 
-##Functionality
+## `Functionality`
 1. Home
 2. Dashboard
 3. Service
@@ -17,4 +17,4 @@ It is a online electronic repairing shop.
 
 #Database - MongoDB #Login System #image upload with others info
 
-Note: The project has not been completed yet for some reasons... In Future the developer will update the features.
+
